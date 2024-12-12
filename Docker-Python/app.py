@@ -1,0 +1,1 @@
+print("Hello-I successfully created Docker file and I am able create image and successfully run that image and finally I have pushed that to Docker-Hub .Cheers")
